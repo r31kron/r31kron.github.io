@@ -38,4 +38,3 @@ Validation applies to both commands and queries:
 Events help with decoupling components:
 
 1. **Communication Between Components or Endpoints** – Examples include WebSockets, message queues, or APIs exchanging XML/JSON payloads.
-2. 
